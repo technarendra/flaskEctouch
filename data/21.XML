@@ -1,0 +1,31 @@
+<File>
+	<Number>21</Number>
+	<Name>Tax table</Name>
+	<Date>22/03/2018</Date>
+	<Time>10:15</Time>
+	<Records><Record><Number>1</Number>
+	<Name>VAT</Name>
+	<Rate>20</Rate>
+	<CalculationType>1</CalculationType>
+	<RoundingMethod>0</RoundingMethod>
+	</Record><Record><Number>2</Number>
+	<Name>ZERO RATED</Name>
+	<Rate>0</Rate>
+	<CalculationType>1</CalculationType>
+	<RoundingMethod>0</RoundingMethod>
+	</Record><Record><Number>3</Number>
+	<Name>TAX 3</Name>
+	<Rate>0</Rate>
+	<CalculationType>0</CalculationType>
+	<RoundingMethod>0</RoundingMethod>
+	</Record><Record><Number>4</Number>
+	<Name>TAX 4</Name>
+	<Rate>0</Rate>
+	<CalculationType>0</CalculationType>
+	<RoundingMethod>0</RoundingMethod>
+	</Record><Record><Number>5</Number>
+	<Name>TAX 5</Name>
+	<Rate>0</Rate>
+	<CalculationType>0</CalculationType>
+	<RoundingMethod>0</RoundingMethod>
+	</Record></Records></File>

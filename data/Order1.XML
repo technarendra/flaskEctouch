@@ -1,0 +1,94 @@
+<?xml version="1.0"?>
+<Order>
+	<Date>18/12/2017</Date>
+	<Time>11:31:08</Time>
+	<Mode>REG</Mode>
+	<ConsecutiveNo>1</ConsecutiveNo>
+	<TerminalNo>2</TerminalNo>
+	<TerminalName>TERMINAL-2</TerminalName>
+	<ClerkNo>8</ClerkNo>
+	<ClerkName>DELIVERY</ClerkName>
+	<TableNo>100</TableNo>
+	<Status>0</Status>
+	<Cover>1</Cover>
+	<Customer><CustomerID>1</CustomerID>
+	<KeyCode>07000000001</KeyCode>
+	<Forename>CUSTOMER1</Forename>
+	<Surname>SURNAME1</Surname>
+	<Address1>Epos Co (Gb) Ltd</Address1>
+	<Address2>1154 High Road</Address2>
+	<Address3>LONDON</Address3>
+	<PostCode>N20 0RA</PostCode>
+	<Telephone></Telephone>
+	</Customer><Item><ItemType>0</ItemType>
+	<ItemNo>9</ItemNo>
+	<UnitPrice>3.6</UnitPrice>
+	<ItemName>KEBAB ROLL (SHEEK)</ItemName>
+	<Qty>1</Qty>
+	<Value>3.60</Value>
+	<TaxNo>1</TaxNo>
+	<TaxName>VAT</TaxName>
+	<TaxRate>20</TaxRate>
+	<TaxType>Add in</TaxType>
+	<TaxRounding>No Rounding</TaxRounding>
+	</Item><Item><ItemType>0</ItemType>
+	<ItemNo>9</ItemNo>
+	<UnitPrice>3.6</UnitPrice>
+	<ItemName>KEBAB ROLL (SHEEK)</ItemName>
+	<Qty>1</Qty>
+	<Value>3.60</Value>
+	<TaxNo>1</TaxNo>
+	<TaxName>VAT</TaxName>
+	<TaxRate>20</TaxRate>
+	<TaxType>Add in</TaxType>
+	<TaxRounding>No Rounding</TaxRounding>
+	</Item><Item><ItemType>1</ItemType>
+	<ItemNo>501</ItemNo>
+	<FuncNo>35</FuncNo>
+	<Options>10</Options>
+	<FuncValue>5</FuncValue>
+	<ItemName>2 FOR £5</ItemName>
+	<Qty>0</Qty>
+	<Value>-2.20</Value>
+	</Item><Item><ItemType>0</ItemType>
+	<ItemNo>21</ItemNo>
+	<UnitPrice>2.85</UnitPrice>
+	<ItemName>TANDOORI CHICKEN (1/4)</ItemName>
+	<Qty>1</Qty>
+	<Value>2.85</Value>
+	<TaxNo>1</TaxNo>
+	<TaxName>VAT</TaxName>
+	<TaxRate>20</TaxRate>
+	<TaxType>Add in</TaxType>
+	<TaxRounding>No Rounding</TaxRounding>
+	</Item><Item><ItemType>0</ItemType>
+	<ItemNo>23</ItemNo>
+	<UnitPrice>9.75</UnitPrice>
+	<ItemName>TANDOORI MIXED GRILL</ItemName>
+	<Qty>1</Qty>
+	<Value>9.75</Value>
+	<TaxNo>1</TaxNo>
+	<TaxName>VAT</TaxName>
+	<TaxRate>20</TaxRate>
+	<TaxType>Add in</TaxType>
+	<TaxRounding>No Rounding</TaxRounding>
+	</Item><Item><ItemType>0</ItemType>
+	<ItemNo>305</ItemNo>
+	<UnitPrice>1.95</UnitPrice>
+	<ItemName>COKE BTL</ItemName>
+	<Qty>1</Qty>
+	<Value>1.95</Value>
+	<TaxNo>2</TaxNo>
+	<TaxName>ZERO RATED</TaxName>
+	<TaxRate>0</TaxRate>
+	<TaxType>Add in</TaxType>
+	<TaxRounding>No Rounding</TaxRounding>
+	</Item><Item><ItemType>1</ItemType>
+	<ItemNo>149</ItemNo>
+	<FuncNo>8</FuncNo>
+	<Options>0</Options>
+	<FuncValue>0</FuncValue>
+	<ItemName>HOLD </ItemName>
+	<Qty>0</Qty>
+	<Value>19.55</Value>
+	</Item></Order>
