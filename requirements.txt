@@ -14,7 +14,7 @@ Flask-SQLAlchemy==2.4.0
 Flask-WTF==0.14.2
 gunicorn==19.4.5
 gyp==0.1
-html5lib==0.999
+html5lib==0.99999999
 httplib2==0.12.1
 idna==2.8
 itsdangerous==1.1.0
