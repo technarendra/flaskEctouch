@@ -2,7 +2,7 @@ adium-theme-ubuntu==0.3.4
 alembic==1.0.10
 autoenv==1.0.0
 beautifulsoup4==4.4.1
-certifi==2019.3.9
+certifi==2022.12.7
 chardet==3.0.4
 Click==7.0
 Flask==1.0.2
